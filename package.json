@@ -2,14 +2,14 @@
   "name": "animation-ar",
   "version": "0.0.0",
   "description": "No description",
-  "author": null,
+  "author": "nero248",
   "private": true,
-  "main": "node_modules/expo/AppEntry.js",
+  "main": "App.js",
   "dependencies": {
+    "create-react-class": "15.6.3",
     "expo": "^30.0.0",
     "react": "16.3.1",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
-    "create-react-class": "15.6.3",
+    "react-native": "^0.57.2",
     "react-native-elements": "0.19.1",
     "react-viro": "2.11.0"
   }
